@@ -101,11 +101,11 @@ $golden_ratio: (sqrt(5) - 1) / 2;
 }
 .box {
   margin: 0 auto;
-  text-align: center;
+  #text-align: center;
 }
 .box-left {
   flex: 1 1 (1 - $golden_ratio) * 100%;
-  background-color: #283d46;
+  background-color: #273d46;
   min-width: 200px;
   display: flex;
   flex-flow: column nowrap;
