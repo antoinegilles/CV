@@ -125,9 +125,9 @@ $(document).ready(function() {
   });
   emulateTyping({
     typedStrings: [
-      "To be rather <strong>simple</strong>",
-      "I promise <strong>NOT</strong> to pull down the <strong>average</strong> <i>IQ</i> of my team",
-      "Oh, wait, just kidding ヽ(´▽`)/  ............."
+      "mkdir WhatAreMyObjective",
+      "cd MyObjectiveAreHere",
+      "cat Objective       "
     ],
   });
 
